@@ -1,8 +1,8 @@
 <?php
 
-    $to = "spn8@spondonit.com";
-    $from = $_REQUEST['email'];
-    $name = $_REQUEST['name'];
+    $to = "gamingniks@gmail.com";
+    $from = $_REQUEST['nayabsubhedar@gmail.com'];
+    $name = $_REQUEST['Enquiry'];
     $subject = $_REQUEST['subject'];
     $number = $_REQUEST['number'];
     $cmessage = $_REQUEST['message'];
